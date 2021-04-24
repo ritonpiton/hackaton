@@ -1,0 +1,11 @@
+.section__text {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+
+    margin-bottom: 30px
+}
+
+.section__text:last-of-type {
+    margin-bottom: 0;
+}

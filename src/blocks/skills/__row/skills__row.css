@@ -1,0 +1,7 @@
+.skills__row {
+    margin-bottom: 20px;
+}
+
+.skills__row:first-of-type {
+    margin-bottom: 65px;
+}

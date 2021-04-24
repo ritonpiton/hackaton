@@ -1,0 +1,38 @@
+@keyframes fill_ux {
+    from {
+        width: 0;
+    }
+    to {
+        width: 85%;
+    }
+}
+
+.fill_ux {
+    animation: fill_ux 3s 2s 1 forwards;
+}
+
+@keyframes fill_ui {
+    from {
+        width: 0;
+    }
+    to {
+        width: 79%;
+    }
+}
+
+.fill_ui {
+    animation: fill_ui 3s 2s 1 forwards;
+}
+
+@keyframes fill_dev {
+    from {
+        width: 0;
+    }
+    to {
+        width: 64%;
+    }
+}
+
+.fill_dev {
+    animation: fill_dev 3s 2s 1 forwards;
+}

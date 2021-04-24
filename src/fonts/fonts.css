@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Libre Franklin';
+    src: url('./LibreFranklin-Regular.woff') format('woff'), url('./LibreFranklin-Regular.ttf') format('truetype'), url('./LibreFranklin-Regular.svg') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Libre Franklin';
+    src: url('./LibreFranklin-Bold.woff') format('woff'), url('./LibreFranklin-Bold.ttf') format('truetype'), url('./LibreFranklin-Bold.svg') format('svg');
+    font-weight: 700;
+    font-style: normal;
+}
+
+
+

@@ -1,0 +1,13 @@
+.header {
+    color: white;
+    display: flex;
+    padding: 93px 165px 145px 165px;
+    box-sizing: border-box;
+
+    background-image: url("./../../images/Background.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}

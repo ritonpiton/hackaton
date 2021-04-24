@@ -1,0 +1,11 @@
+.header__line-link {
+    margin: 0 60px 0 0;
+
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+}
+
+.header__line-link:last-of-type {
+    margin: 0;
+}

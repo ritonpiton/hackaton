@@ -1,0 +1,11 @@
+.skills__progress-bar_fill {
+    width: 0;
+    height: 24px;
+    background-color: #C66C49;
+}
+.skills__progress-bar_fill_ui {
+    width: 79%;
+}
+.skills__progress-bar_fill_dev {
+    width: 64%;
+}

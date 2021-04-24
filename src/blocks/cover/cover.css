@@ -1,0 +1,12 @@
+.cover {
+    padding: 0 165px 240px 165px;
+    box-sizing: border-box;
+
+    color: white;
+
+    background-image: url("./../../images/Background.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
